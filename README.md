@@ -1,6 +1,6 @@
 # MemeTempApp
 
-iOS app for viewing meme templetes from the imgflip RestAPI, The app is created programmaticlly using UIKit following the MVVM design pattern,
+iOS app for viewing meme templates from the imgflip RestAPI, The app is created programmatically using UIKit following the MVVM design pattern,
 implemented Swift concurrency concepts when fetching data over the network.
 
 App Demo : https://drive.google.com/file/d/13KeB5DDIF6JMhVUbXnAXJKwQKSNJL6dm/view?usp=sharing
