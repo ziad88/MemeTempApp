@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "50595AAF-E582-4326-8359-CB577DF62C1D"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E9D38D4D-D1B5-4CA6-85C8-F9ECC3D37AB2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MemeTemp/MemeViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "getMemes()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E9D38D4D-D1B5-4CA6-85C8-F9ECC3D37AB2 - 771bafca74afe048"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for closure #1 @Sendable () async -&gt; () in MemeTemp.MemeViewModel.getMemes() -&gt; ()"
+                  moduleName = "MemeTemp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ziadahmed/Desktop/Developer/2022-23/MemeTemp/MemeTemp/MemeViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "1779">
+               </Location>
+               <Location
+                  uuid = "E9D38D4D-D1B5-4CA6-85C8-F9ECC3D37AB2 - eee868f1861b4e49"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for closure #1 @Sendable () async -&gt; () in MemeTemp.MemeViewModel.getMemes() -&gt; ()"
+                  moduleName = "MemeTemp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ziadahmed/Desktop/Developer/2022-23/MemeTemp/MemeTemp/MemeViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "273">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
